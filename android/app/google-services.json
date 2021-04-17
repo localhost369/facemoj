@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "685375399168",
+    "project_id": "facemoj-fdc8b",
+    "storage_bucket": "facemoj-fdc8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685375399168:android:30e553409f763f86d1bfe5",
+        "android_client_info": {
+          "package_name": "com.facemoj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685375399168-hosq0s83aciui55c1vpeascuuguqn6dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.facemoj",
+            "certificate_hash": "edbb2be83704ec2c0b8a30a001c41811435408e6"
+          }
+        },
+        {
+          "client_id": "685375399168-hseepnjcflc4uilmujabp7fsb2aim83u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvGC4IeiWQ-H3GnMA1lC6rDQRtQvYlPKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685375399168-hseepnjcflc4uilmujabp7fsb2aim83u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
